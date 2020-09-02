@@ -1,0 +1,149 @@
+.topic-title { 
+    display: block;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    color:#067bc2;
+  }
+
+.hp-land-card{
+    background: #FFFFFF;
+    border: 1px solid #CECFDF;
+    /* Doc Cat Box */
+    box-shadow: 2px 2px 12px rgba(102, 102, 110, 0.25);
+}
+
+.the-shadow {
+    box-shadow: 2px 2px 12px rgba(102, 102, 110, 0.25);
+}
+
+.hp-card-link {
+    color:#292929
+}
+
+a.hp-card-link:hover {
+    color: #033e63;
+    text-decoration:none;
+}
+
+.hp-ctitle {
+    color:#033e63
+}
+
+a.hp-ctitle:hover {
+    color: #067bc2;
+    text-decoration:none;
+}
+
+.land-card{
+    background: #FFFFFF;
+    border: 1px solid #CECFDF;
+    /* Doc Cat Box */
+    box-shadow: 2px 2px 12px rgba(102, 102, 110, 0.25);
+}
+
+.full-height {
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.nav-bg{
+    background-color: #044b77;
+    color: #ffffff
+}
+
+.card-bg-link{
+    color: #067bc2 !important
+}
+
+a.card-bg-link:hover{
+    color: #044b77;
+    text-decoration:none;
+}
+
+.nav-bg-link{
+    color: #ffffff !important
+}
+a.nav-bg-link:hover{
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.th-content-bg{
+    background-color: #f7fcff;
+}
+
+.th-content-clr{
+    color:#0a0a0a;
+}
+
+.th-one{
+    background-color: #067bc2;
+}
+
+.th-two{
+    background-color: #006494;
+}
+
+.th-three{
+    background-color: #173753;
+}
+
+.th-four{
+    background-color: #3E8914;
+}
+
+.th-five{
+    #background-color: #EFE9F4; EDF7F6;
+	background-color:#EDF7F6
+}
+
+.th-six{
+    background-color: #C1292E;
+}
+
+.th-box-one{
+    color: #0582CA;
+}
+
+.th-box-two{
+    color: #006494;
+}
+
+.th-box-three{
+    color: #173753;
+}
+
+.th-box-four{
+    color: #3E8914;
+}
+
+.th-box-five{
+    color: #EFE9F4;
+}
+
+.th-box-six{
+    color: #C1292E;
+}
+
+.th-border-one{
+    border-color: #8D99AE !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+}
+
+
+.jumbo-bg{
+    background-color: #274060;
+    color:  #F4FFF8! important
+}
+.bg-theme-one{
+    background-color: #006494!important;
+}
+
+.border-th-one{
+    border-color: #006494! important;
+    border-style: solid !important;
+    border-width: 1px !important;
+}
