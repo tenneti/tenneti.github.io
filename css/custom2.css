@@ -49,8 +49,8 @@ a.hp-ctitle:hover {
 }
 
 .nav-bg{
-    background-color: #044b77;
-    color: #ffffff
+    background-color: #c4e7fd;
+    color: #02324f;
 }
 
 .card-bg-link{
@@ -63,10 +63,10 @@ a.card-bg-link:hover{
 }
 
 .nav-bg-link{
-    color: #ffffff !important
+    color: #02324f !important
 }
 a.nav-bg-link:hover{
-    color: #ffffff;
+    color: #02324f;
     text-decoration:none;
 }
 
