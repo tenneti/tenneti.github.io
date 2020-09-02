@@ -51,6 +51,7 @@ a.hp-ctitle:hover {
 .nav-bg{
     background-color: #c4e7fd;
     color: #02324f;
+    border: 1px solid #CECFDF;
 }
 
 .card-bg-link{
@@ -72,7 +73,6 @@ a.nav-bg-link:hover{
 
 .th-content-bg{
     background-color: #f7fcff;
-    border: 1px solid #CECFDF;
 }
 
 .th-content-clr{
