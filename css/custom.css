@@ -12,7 +12,28 @@
     border: 1px solid #CECFDF;
     /* Doc Cat Box */
     box-shadow: 2px 2px 12px rgba(102, 102, 110, 0.25);
-    color:#141414
+}
+
+.the-shadow {
+    box-shadow: 2px 2px 12px rgba(102, 102, 110, 0.25);
+}
+
+.hp-card-link {
+    color:#292929
+}
+
+a.hp-card-link:hover {
+    color: #033e63;
+    text-decoration:none;
+}
+
+.hp-ctitle {
+    color:#033e63
+}
+
+a.hp-ctitle:hover {
+    color: #067bc2;
+    text-decoration:none;
 }
 
 .land-card{
